@@ -1,7 +1,7 @@
 package com.pluralsight;
 
 public class Hello {
-    //main is the control cener
+    //main is the control center
     public static void main(String[] args) {
         sayHello();
         sayGoodbye();
